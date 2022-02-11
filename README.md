@@ -1,4 +1,3 @@
 # aulasDs2022
 
-Testando1
-Novo Teste
+Editei no Git
